@@ -1,4 +1,9 @@
-## Hi there 👋
+# What's spicin up
+
+- Aspiring web dev -> newbie 
+- Learning PHP and Laravel Framework
+- Focus on back-end
+- Open for collab projects! 
 
 <!--
 **AshkaNozuki10/AshkaNozuki10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
